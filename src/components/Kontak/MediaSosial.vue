@@ -5,10 +5,14 @@
         <h3 class="title-media" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50">Media sosial kami </h3>
         </div>
         <div class="row " >
-          <div class="col-md-5 " v-for="media in medsos" :key="media.id">
+          <div class="col-md-5 " >
             <div class="align-items-center d-flex kontakk">
-              <img class="medsos" :src="path + media.pathicon" alt="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50"/>
-              <p  style="width:auto;" class="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">{{ media.namamedsos }}</p>
+              <img class="medsos" src="@/assets/img/Icons/Icons1/instagram.png" alt="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50"/>
+              <p  style="width:auto;" class="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">PartnerJalan_ID</p>
+            </div>
+            <div class="align-items-center d-flex kontakk">
+              <img class="medsos" src="@/assets/img/Icons/Icons1/facebook.png" alt="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="50"/>
+              <p  style="width:auto;" class="" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">PartnerJalan</p>
             </div>
           </div> 
           </div>

@@ -20,44 +20,6 @@
       <div class="col-sm col-5 kontak2">
        
         <div class="row"><MediaSosial />
-         
-            
-            
-          <div class="col-sm-4 col-12 ">
-            <div class="align-items-center kontakk">
-            </div>
-          </div>
-          <div class="col-sm-6 col-12">
-            <div class="d-flex align-items-center">
-           
-            </div>
-          </div>
-          <div class="col-sm-6 col-12">
-            <div class="d-flex align-items-center">
-              <img src="@/assets/img/Icons/Icons1/instagram.png" />
-              <p>PartnertJalanID</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-12">
-            <div class="d-flex align-items-center">
-              <img src="@/assets/img/Icons/Icons1/instagram.png" />
-              <p>PartnertJalanID</p>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-6 col-12 d-flex">
-            <div class="d-flex align-items-center kontakk">
-             <img src="@/assets/img/Icons/email.png" alt="">
-            <p>PartnerJalan@gmail.com</p>
-            </div>
-          </div> 
-          <div class="col-sm-6 col-12 ">
-            <div class="align-items-center kontakk">
-             <img src="@/assets/img/Icons/email.png" alt="">
-             
-            </div>
-          </div>
           </div>
       </div>
     </div>
